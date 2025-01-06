@@ -9,7 +9,7 @@ I’m a passionate Full Stack and Mobile App Developer and tech enthusiast dedic
 
 ---
 
--- ## 🌱 What I’m learning  
+## 🌱 What I’m learning  
 Exploring advanced backend technologies and React Native for seamless app development.  
 
 ---
