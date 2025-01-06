@@ -1,20 +1,20 @@
-# 👋 Hi there! I'm Jacob Godwin 
+- # 👋 Hi there! I'm Jacob Godwin 
 
-I’m a passionate developer and tech enthusiast dedicated to building innovative solutions that make a difference.  
+- I’m a passionate Full Stack and Mobile App Developer and tech enthusiast dedicated to building innovative solutions that make a difference.  
 
 ---
 
-## 🚀 What I’m working on  
+- ## 🚀 What I’m working on  
 - **[Appmosphere](#):** A social platform for communication.  
 
 ---
 
-## 🌱 What I’m learning  
-- Exploring advanced backend technologies and React Native for seamless app development.  
+- ## 🌱 What I’m learning  
+Exploring advanced backend technologies and React Native for seamless app development.  
 
 ---
 
-## 🛠️ Skills  
+- ## 🛠️ Skills  
 - **Languages:** JavaScript, Python, HTML/CSS and Typescript
 - **Frameworks:** React js, Next js, Node.js, Nest js, Django, React Native, Adonis Js, Express js and Tailwind CSS 
 - **Tools:** Git, Figma, VS Code, Docker 
@@ -27,6 +27,6 @@ I’m a passionate developer and tech enthusiast dedicated to building innovativ
 
 ---
 
-## 📫 Let’s Connect  
+- ## 📫 Let’s Connect  
 - **Email:** [jacobgodwin281@gmail.com](mailto:jacobgodwin281@gmail.com)  
 - **GitHub:** [github.com/jgodwin10](https://github.com/jgodwin10)
